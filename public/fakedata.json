@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "Leanne Graham1",
+        "username": "Bret",
+        "email": "Sincere@april.biz",
+        "address": {
+            "street": "Kulas Light",
+            "city": "Gwenborough"
+        },
+        "phone": "1-770-736-8031 x56442",
+        "orders": "2",
+        "orderItems": "2",
+        "image": "https://i.ibb.co/9bKmqsW/user.png",
+        "products": {
+            "phone": {
+                "model": "Iphone14 pro",
+                "image": "https://i.ibb.co/3NdLnQj/12.jpg"
+            },
+            "watch": {
+                "model": "Iphone14 pro",
+                "image": "https://i.ibb.co/mc8P2mk/download.jpg"
+            }
+        }
+    },
+    {
+        "id": 1,
+        "name": "Leanne Graham2",
+        "username": "Bret",
+        "email": "Sincere@april.biz",
+        "address": {
+            "street": "Kulas Light",
+            "city": "Gwenborough"
+        },
+        "phone": "1-770-736-8031 x56442",
+        "orders": "2",
+        "orderItems": "2",
+        "image": "https://i.ibb.co/9bKmqsW/user.png",
+        "products": {
+            "phone": {
+                "model": "Iphone14 pro",
+                "image": "https://i.ibb.co/3NdLnQj/12.jpg"
+            },
+            "watch": {
+                "model": "Iphone14 pro",
+                "image": "https://i.ibb.co/mc8P2mk/download.jpg"
+            }
+        }
+    },
+    {
+        "id": 1,
+        "name": "Leanne Graham3",
+        "username": "Bret",
+        "email": "Sincere@april.biz",
+        "address": {
+            "street": "Kulas Light",
+            "city": "Gwenborough"
+        },
+        "phone": "1-770-736-8031 x56442",
+        "orders": "2",
+        "orderItems": "2",
+        "image": "https://i.ibb.co/9bKmqsW/user.png",
+        "products": {
+            "phone": {
+                "model": "Iphone14 pro",
+                "image": "https://i.ibb.co/3NdLnQj/12.jpg"
+            },
+            "watch": {
+                "model": "Iphone14 pro",
+                "image": "https://i.ibb.co/mc8P2mk/download.jpg"
+            }
+        }
+    },
+    {
+        "id": 1,
+        "name": "Leanne Graham4",
+        "username": "Bret",
+        "email": "Sincere@april.biz",
+        "address": {
+            "street": "Kulas Light",
+            "city": "Gwenborough"
+        },
+        "phone": "1-770-736-8031 x56442",
+        "orders": "2",
+        "orderItems": "2",
+        "image": "https://i.ibb.co/9bKmqsW/user.png",
+        "products": {
+            "phone": {
+                "model": "Iphone14 pro",
+                "image": "https://i.ibb.co/3NdLnQj/12.jpg"
+            },
+            "watch": {
+                "model": "Iphone14 pro",
+                "image": "https://i.ibb.co/mc8P2mk/download.jpg"
+            }
+        }
+    },
+    {
+        "id": 1,
+        "name": "Leanne Graham5",
+        "username": "Bret",
+        "email": "Sincere@april.biz",
+        "address": {
+            "street": "Kulas Light",
+            "city": "Gwenborough"
+        },
+        "phone": "1-770-736-8031 x56442",
+        "orders": "2",
+        "orderItems": "2",
+        "image": "https://i.ibb.co/9bKmqsW/user.png",
+        "products": {
+            "phone": {
+                "model": "Iphone14 pro",
+                "image": "https://i.ibb.co/3NdLnQj/12.jpg"
+            },
+            "watch": {
+                "model": "Iphone14 pro",
+                "image": "https://i.ibb.co/mc8P2mk/download.jpg"
+            }
+        }
+    },
+    {
+        "id": 1,
+        "name": "Leanne Graham6",
+        "username": "Bret",
+        "email": "Sincere@april.biz",
+        "address": {
+            "street": "Kulas Light",
+            "city": "Gwenborough"
+        },
+        "phone": "1-770-736-8031 x56442",
+        "orders": "2",
+        "orderItems": "2",
+        "image": "https://i.ibb.co/9bKmqsW/user.png",
+        "products": {
+            "phone": {
+                "model": "Iphone14 pro",
+                "image": "https://i.ibb.co/3NdLnQj/12.jpg"
+            },
+            "watch": {
+                "model": "Iphone14 pro",
+                "image": "https://i.ibb.co/mc8P2mk/download.jpg"
+            }
+        }
+    }
+]

@@ -3,8 +3,8 @@ const nextConfig = {
   reactStrictMode: true,
   images: {
     domains: [
-      // "i.ibb.co",
-      // "cdn.sanity.io"
+      "fakestoreapi.com",
+      "i.ibb.co"
     ]
   },
 }

@@ -30,7 +30,7 @@ const Header = () => {
                 </div>
             </div>
             <div className='flex gap-2 lg:gap-6 items-center'>
-                <Link href='/dashboard'>
+                <Link href='/'>
                     <button className='h-8 lg:h-10 w-20 lg:w-28 bg-green-500 rounded-md text-sm font-medium text-md active:bg-transparent active:border border-green-500'>Dashboard</button>
                 </Link>
                 <Link href='/login'>

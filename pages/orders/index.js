@@ -4,7 +4,6 @@ import Link from 'next/link';
 import React from 'react';
 
 const Orders = ({ productData }) => {
-    console.log(productData)
     return (
         <div className="overflow-x-hidden w-full lg:w-2/3 my-10 mx-auto">
             <span className='mb-10'>
@@ -81,6 +80,7 @@ export default Orders;
 
 export const getStaticProps = async () => {
     const data = await axios.get('https://fakestoreapi.com/carts');
+    console.log(data)
     return {
         props: {
             productData: data.data,

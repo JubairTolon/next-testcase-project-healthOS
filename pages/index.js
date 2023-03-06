@@ -8,7 +8,6 @@ import Dashboard from './dashboard'
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
-  console.log(productData)
   return (
     <>
       <Head>

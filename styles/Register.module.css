@@ -1,0 +1,12 @@
+.PhoneInput {
+    /* This is done to stretch the contents of this component. */
+    /* height: 40px; */
+    width: 100%;
+}
+
+.PhoneInput Input {
+    height: 40px;
+    border-radius: 7px;
+    padding: 2px 5px;
+    margin-left: 10px
+}
